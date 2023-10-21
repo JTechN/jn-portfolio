@@ -18,7 +18,6 @@
     display: flex;
     list-style-type: none;
     align-items: center;
-
 }
 
 li a{
@@ -26,17 +25,12 @@ li a{
     text-decoration: none;
 }
 
-
-.main-container #main img{
+.cover-container #cover-page img{
     height: auto;
     width: clamp(100px, 80%, 400px);
     display: block;
     margin: auto;
-
-
 }
-
-
 
 #footer {
     position: absolute;
